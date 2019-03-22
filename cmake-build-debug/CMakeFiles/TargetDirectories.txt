@@ -1,0 +1,3 @@
+D:/sem2/lfa/tema1/cmake-build-debug/CMakeFiles/tema1.dir
+D:/sem2/lfa/tema1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/sem2/lfa/tema1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
